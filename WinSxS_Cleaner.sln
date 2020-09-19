@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinSxS_Cleaner", "WinSxS_Cleaner.csproj", "{1E817EAE-851D-4BE7-8876-DBFCCFDFBBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E817EAE-851D-4BE7-8876-DBFCCFDFBBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E817EAE-851D-4BE7-8876-DBFCCFDFBBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E817EAE-851D-4BE7-8876-DBFCCFDFBBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E817EAE-851D-4BE7-8876-DBFCCFDFBBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E59756-CBA1-4BC0-965F-52263FA0A81D}
+	EndGlobalSection
+EndGlobal
