@@ -1,4 +1,4 @@
-# WinSxS_Cleaner
+# WinSxS Folder Cleaner
 Windows WinSxS Folder Cleaner for: Windows 7 and later.
 Useful for saving disk space, and creatine custom lightweight Windows ISOs.
 
