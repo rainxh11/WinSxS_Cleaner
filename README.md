@@ -8,7 +8,7 @@ Useful for saving disk space, and creatine custom lightweight Windows ISOs.
 - Windows 8: SUCCESS!
 - Windows 8.1: SUCCESS!
 - Windows 10 From v1903 to latest version: SUCCESS!
-- Windows 11 All Build Verions: SUCCESS!
+- Windows 11 All Build Versions: SUCCESS!
 
 # How to:
 Drag and drop "windows\winsxs" folder to "WinSxSCleaner.exe", it will create reduced size modified "WinSxS" zip file in the executable folder.
