@@ -1,0 +1,29 @@
+
+   [
+    "amd64_microsoft-windows-s..cingstack.resources",
+    "amd64_microsoft-windows-servicingstack",
+    "amd64_microsoft.vc80",
+    "amd64_microsoft.vc90",
+    "amd64_microsoft.windows.c..-controls.resources",
+    "amd64_microsoft.windows.c..-controls.resources",
+    "amd64_microsoft.windows.common-controls",
+    "amd64_microsoft.windows.common-controls",
+    "amd64_microsoft.windows.gdiplus",
+    "amd64_microsoft.windows.gdiplus",
+    "amd64_microsoft-windows-com-dtc-runtime",
+    "amd64_microsoft-windows-t..languages.resources",
+    "amd64_microsoft-windows-userexperience-desktop",
+    "Catalogs",
+    "InstallTemp",
+    "Manifests",
+    "x86_microsoft.vc80",
+    "x86_microsoft.vc90",
+    "x86_microsoft.windows.c..-controls.resources",
+    "x86_microsoft.windows.c..-controls.resources",
+    "x86_microsoft.windows.common-controls",
+    "x86_microsoft.windows.common-controls",
+    "x86_microsoft.windows.gdiplus",
+    "x86_microsoft.windows.gdiplus",
+    "x86_microsoft-windows-userexperience-desktop"
+  ]
+
