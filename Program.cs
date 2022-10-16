@@ -26,4 +26,6 @@ foreach (var file in filesToCopy)
     zipFile.AddEntry(file.FullName.Replace(winSxsPath.FullName, ""), file.FullName);
 }
 
-zipFile.SaveTo($"WinSxS_{filesToCopy?.Count}-files_{DateTime.Now:yyyy-MM-dd}.zip", CompressionType.Deflate);
+zipFile.SaveTo(Path.Combine(AppContext.BaseDirectory,
+    $"WinSxS_{filesToCopy?.Count}-files_{DateTime.Now:yyyy-MM-dd}.zip"),
+    CompressionType.Deflate);
