@@ -1,6 +1,6 @@
 # WinSxS Folder Cleaner
 Windows WinSxS Folder Cleaner for: Windows 7 and later.
-Useful for saving disk space, and creatine custom lightweight Windows ISOs.
+Useful for saving disk space, and creating custom lightweight Windows ISOs.
 
 ## Tested on:
 - Windows 7: SUCCESS!
@@ -11,7 +11,7 @@ Useful for saving disk space, and creatine custom lightweight Windows ISOs.
 - Windows 11 All Build Versions: SUCCESS!
 
 # How to:
-Drag and drop "windows\winsxs" folder to "WinSxSCleaner.exe", it will create reduced size modified "WinSxS" zip file in the executable folder.
+Drag and drop "windows\winsxs" folder to "WinSxSCleaner.exe", it will create a reduced size modified "WinSxS" zip file in the executable folder.
 
 Download: https://github.com/rainxh11/WinSxS_Cleaner/releases/latest
 
