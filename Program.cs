@@ -3,7 +3,7 @@ using SharpCompress.Archives;
 using SharpCompress.Archives.Zip;
 using SharpCompress.Common;
 
-var json = File.ReadAllText("whitelist.json");
+var json = File.ReadAllText(Path.Combine(AppContext.BaseDirectory, "whitelist.json"));
 var whiteList = JsonSerializer.Deserialize<List<string>>(json);
 
 var winSxsPath = args.Length > 0
